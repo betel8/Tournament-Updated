@@ -1,0 +1,207 @@
+{
+    "hero": {
+      "title": "FC 25 ውድድር",
+      "subtitle": "በCyberHub GameZone, አዲስ አበባ ውስጥ ለክብር ተዋጉ",
+      "register": "ይመዝገቡ",
+      "login": "ግባ",
+      "freeRegistration": "ነፃ ምዝገባ",
+      "fee": "ብትሸነፍ 20 ብር ብቻ"
+    },
+    "finalCTA": {
+    "title": "መጫወት ዝትደልዩ ኢኹም?",
+    "subtitle": "ውሱን ቦታታት ጥራይ እዩ",
+    "button": "ቦታኹም ውሰዱ"
+  },
+  "features": {
+    "title": "የውድድሩ ዋና ነገሮች",
+    "ps5": {
+      "title": "PS5 ጨዋታ",
+      "text": "በPlayStation 5 ተወዳደሩ"
+    },
+    "prizes": {
+      "title": "ሽልማቶች ያሸንፉ",
+      "text": "ገንዘብ እና የጨዋታ መሳሪያዎች"
+    },
+    "location": {
+      "title": "CyberHub",
+      "text": "አዲስ አበባ"
+    },
+    "schedule": {
+      "title": "መጋቢት 15-30",
+      "text": "በየቀኑ ጨዋታዎች"
+    }
+  },
+  "eventDetails": {
+    "title": "የዝግጅቱ ዝርዝሮች",
+    "date": "መጋቢት 15-30፣ 2025",
+    "time": "ከምሽቱ 4፡00 ሰዓት ጀምሮ እስከ 10፡00 ድረስ",
+    "venue": "CyberHub GameZone",
+    "location": "ቦሌ፣ አዲስ አበባ",
+    "imageAlt": "የጨዋታ ቦታ"
+  },
+    "registration": {
+    "title": "የተጫዋች ምዝገባ",
+    "stepLabel": "ደረጃ {{step}}",
+    
+    "step1": {
+      "firstNameLabel": "የመጀመሪያ ስም",
+      "firstNamePlaceholder": "የመጀመሪያ ስምዎን ያስገቡ",
+      "lastNameLabel": "የአባት ስም",
+      "lastNamePlaceholder": "የአባት ስምዎን ያስገቡ",
+      "profilePhotoAlt": "የግላዊ ፎቶ ቅድመ እይታ"
+    },
+    
+    "step2": {
+      "phoneNumberLabel": "ስልክ ቁጥር",
+      "phoneNumberPlaceholder": "+251912345678",
+      "phoneNumberFormat": "ቅርፅ: +2517XXXXXXXX ወይም +2519XXXXXXXX",
+      "ageLabel": "እድሜ",
+      "agePlaceholder": "እድሜዎን ያስገቡ"
+    },
+    
+    "step3": {
+      "passwordLabel": "የይለፍ ቃል",
+      "passwordPlaceholder": "••••••••",
+      "passwordRequirements": "ቢያንስ 8 ቁምፊዎች፣ አንድ አቢይ ፊደል፣ አንድ ትንሽ ፊደል እና አንድ ቁጥር ሊኖረው ይገባል",
+      "confirmPasswordLabel": "የይለፍ ቃል አረጋግጥ"
+    },
+    
+    "errors": {
+      "profilePhotoRequired": "የግላዊ ፎቶ ያስፈልጋል",
+      "fileTooLarge": "ፋይሉ ከ20MB ያነሰ መሆን አለበት",
+      "invalidFileType": "JPEG/PNG ፎርማቶች ብቻ ይደገፋሉ",
+      "firstNameRequired": "የመጀመሪያ ስም ያስፈልጋል",
+      "firstNameMinLength": "ቢያንስ 2 ቁምፊዎች መሆን አለበት",
+      "firstNameMaxLength": "ከ50 ቁምፊዎች መብለጥ የለበትም",
+      "lastNameRequired": "የአባት ስም ያስፈልጋል",
+      "lastNameMinLength": "ቢያንስ 2 ቁምፊዎች መሆን አለበት",
+      "lastNameMaxLength": "ከ50 ቁምፊዎች መብለጥ የለበትም",
+      "phoneNumberRequired": "ስልክ ቁጥር ያስፈልጋል",
+      "phoneNumberInvalid": "የኢትዮጵያ ስልክ ቁጥር ቅርፅ የተሳሳተ ነው",
+      "phoneNumberExists": "ይህ ስልክ ቁጥር አስቀድሞ የተመዘገበ ነው",
+      "phoneNumberCheckFailed": "ስልክ ቁጥርን ሲፈትሽ �ረጋግጥ",
+      "ageMin": "ቢያንስ 13 ዓመት መሆን አለበት",
+      "ageMax": "ከፍተኛው እድሜ 100 ነው",
+      "passwordRequired": "የይለፍ ቃል ያስፈልጋል",
+      "passwordMinLength": "ቢያንስ 8 ቁምፊዎች መሆን አለበት",
+      "passwordMaxLength": "ከ50 ቁምፊዎች መብለጥ የለበትም",
+      "passwordLowercase": "ትንሽ ፊደል ያስፈልጋል",
+      "passwordUppercase": "አቢይ ፊደል ያስፈልጋል",
+      "passwordNumber": "ቁጥር ያስፈልጋል",
+      "confirmPasswordRequired": "የይለፍ ቃልዎን ያረጋግጡ",
+      "passwordsDontMatch": "የይለፍ ቃሎች አንድ አይነት አይደሉም",
+      "registrationFailed": "ምዝገባ አልተሳካም። እባክዎ ደግመው ይሞክሩ።",
+      "ageRequired": "እድሜ ያስፈልጋል",
+      "ageInteger": "እድሜ ሙሉ ቁጥር መሆን አለበት"
+    },
+    
+    "messages": {
+      "registrationSuccess": "ምዝገባ ተሳክቷል! ወደ ሌላ ገጽ በመቀየር ላይ...",
+      "processing": "በማቀናበር ላይ..."
+    },
+    
+    "buttons": {
+      "back": "ተመለስ",
+      "nextStep": "የሚቀጥለው ደረጃ",
+      "completeRegistration": "ምዝገባውን ይጨርሱ"
+    }
+  },
+   "navbar": {
+      "tournament": "ውድድር",
+      "dashboard": "ዳሽቦርድ",
+      "rules": "ደንቦች",
+      "matches": "ጨዋታዎች",
+      "login": "ግባ",
+      "register": "ይመዝገቡ",
+      "logout": "ውጣ",
+      "language": "ቋንቋ"
+    },
+  "login": {
+    "title": "ወደ አካውንትዎ ይግቡ",
+    "subtitle": "ለመቀጠል የመግቢያ ማስረጃዎን ያስገቡ",
+    "phoneLabel": "ስልክ ቁጥር",
+    "phonePlaceholder": "+251 9XX XXX XXX",
+    "passwordLabel": "የይለፍ ቃል",
+    "passwordPlaceholder": "የይለፍ ቃልዎን ያስገቡ",
+    "rememberMe": "አስታውሰኝ",
+    "forgotPassword": "የይለፍ ቃል ረሳኽም?",
+    "signIn": "ግባ",
+    "signingIn": "በመግባት ላይ...",
+    "noAccount": "መለያ የሎትም?",
+    "signUp": "ይመዝገቡ",
+    "errors": {
+      "invalidCredentials": "ስልክ ቁጥር ወይም የይለፍ ቃል የተሳሳት ነው",
+      "phoneRequired": "ስልክ ቁጥር ያስፈልጋል",
+      "phoneInvalid": "እባክዎ ትክክለኛ የኢትዮጵያ ስልክ ቁጥር ያስገቡ",
+      "passwordRequired": "የይለፍ ቃል ያስፈልጋል",
+      "passwordMinLength": "የይለፍ ቃል ቢያንስ 8 ቁምፊዎች ሊኖሩት ይገባል",
+      "loginFailed": "መግቢያ አልተሳካም። እባክዎ የመግቢያ ማስረጃዎን ያረጋግጡ",
+      "networkError": "የአውታረመረብ ስህተት። እባክዎ እንደገና ይሞክሩ"
+    }
+  },
+  "changePassword": {
+    "title": "የይለፍ ቃል ቀይር",
+    "subtitle": "መለያዎን ከአዲስ የይለፍ ቃል ጋር ያስከብሩ",
+    "currentPassword": "አሁን ያለዎት የይለፍ ቃል",
+    "currentPasswordPlaceholder": "አሁን ያለዎትን የይለፍ ቃል ያስገቡ",
+    "newPassword": "አዲስ የይለፍ ቃል",
+    "newPasswordPlaceholder": "አዲስ የይለፍ ቃል ያስገቡ",
+    "confirmPassword": "የይለፍ ቃል አረጋግጥ",
+    "confirmPasswordPlaceholder": "አዲሱን የይለፍ ቃል ያረጋግጡ",
+    "submit": "የይለፍ ቃል ቀይር",
+    "success": "የይለፍ ቃል በተሳካ �ንገድ ተቀይሯል!",
+    "error": "የይለፍ ቃሉን ለመቀየር አልተሳካም። እባክዎ ደግመው ይሞክሩ።",
+    "passwordRequirements": {
+      "length": "ቢያንስ 8 ቁምፊዎች",
+      "number": "ቁጥር ይይዝ",
+      "uppercase": "አቢይ ፊደል ይይዝ",
+      "special": "ልዩ ቁምፊ ይይዝ"
+  }
+  }, 
+  "playerDashboard": {
+    "tabs": {
+      "profile": "መገለጫ",
+      "security": "ደህንነት",
+      "stats": "ታሪኮች",
+      "activity": "እንቅስቃሴ"
+    }
+  },
+  "adminDashboard": {
+    "tabs": {
+      "players": "ተጫዋቾች",
+      "tournamentPlayers": "የውድድር ተጫዋቾች",
+      "matches": "ጨዋታዎች",
+      "leagues": "ሊግ",
+      "scheduling": "ጊዜ ማስተካከያ",
+      "results": "ውጤቶች",
+      "automation": "ራስ-ሰር",
+      "communications": "ግንኙነት"
+    }
+  },
+  "errors": {
+    "currentPasswordRequired": "አሁን ያለዎትን የይለፍ ቃል ያስገቡ!",
+    "passwordRequired": "አዲስ የይለፍ ቃል ያስገቡ!",
+    "confirmPasswordRequired": "አዲሱን የይለፍ ቃል ያረጋግጡ!",
+    "passwordMinLength": "የይለፍ ቃሉ ቢያንስ {min} ቁምፊዎች ሊኖሩት ይገባል!",
+    "passwordsDontMatch": "ሁለቱ የይለፍ ቃላት አንድ አይነት አይደሉም!"
+  },
+  "common": {
+    "processing": "በማቀናበር ላይ..."
+  },
+  "rules": {
+  "title": "ደንቦች",
+  "introduction": "ወደ ውድድሩ ኦፊሴላዊ ደንቦች እንኳን በደህና መጡ። እባክዎ ከመሳተፍዎ በፊት እነዚህን መመሪያዎች እንዲነበቡ እና እንዲረዱ ያረጋግጡ። እነዚህ ደንቦች ፍትሃዊ ጨዋታ፣ የስፖርት መንፈስ እና ለሁሉም ተሳታፊዎች አስደሳች ልምድ እንዲኖር የተዘጋጁ ናቸው።",
+  "description1": "ሁሉም ጨዋታዎች በፊፋ ኦፊሴላዊ ደንቦች መሰረት ይጫወታሉ። ይህ በሁሉም ጨዋታዎች ላይ ወጥነት እና ፍትሃዊነት እንዲኖር ያረጋግጣል። ተጫዋቾች ከውድድሩ ከመጀመራቸው በፊት እነዚህን ደንቦች እንዲረዱ ይጠበቃል።",
+  "description2": "እያንዳንዱ ጨዋታ ሁለት ግማሽ ጊዜያት ያካትታል፣ እያንዳንዱ ግማሽ ጊዜ 4 ደቂቃ የእውነተኛ ጊዜ ይሆናል። በሁለቱ ግማሽ ጊዜያት መካከል 1 ደቂቃ የሚቆይ የግማሽ ጊዜ እረፍት ይኖራል። ይህ ደንብ የጨዋታውን ፍጥነት ለመጠበቅ እና ለተጫዋቾች አጭር እረፍት እንዲኖራቸው የተዘጋጀ ነው።",
+  "description3": "ተጫዋቾች በሁሉም ጊዜ የዳኛውን ውሳኔ ማክበር አለባቸው። ከዳኛው ውሳኔ ጋር ያለው አለመስማማት ወይም ክርክር አይቀበልም። የቃል ወይም የአካል ጥቃትን ጨምሮ ማንኛውም ዓይነት አለመታዘዝ ቅጣት ያስከትላል።",
+  "description4": "ሁሉም ተሳታፊዎች ከፍተኛ የስፖርት መንፈስ እንዲኖራቸው ይጠበቃል። የቃል ጥል፣ ግትርነት ወይም የስፖርት መንፈስ የሌለው ባህሪ ቅጣት ወይም ከውድድሩ ማስወገድ ያስከትላል።",
+  "description5": "ጨዋታው በ90 ደቂቃ እኩል ከሆነ፣ ተጨማሪ ጊዜ አይኖርም። ጨዋታው በቀጥታ ወደ ፔናልቲ ይሄዳል። እያንዳንዱ ቡድን አምስት ፔናልቲዎችን ይወስዳል፣ እና ውጤቱ እኩል ከሆነ፣ አሸናፊ እስኪወጣ ድረስ ፔናልቲዎቹ ይቀጥላሉ።",
+  "description6": "በጨዋታው ወቅት የቴክኖሎጂ ችግር (ባግ ወይም ግሊች) ከተከሰተ፣ ዳኛው ጨዋታውን እንደገና ማስጀመር ወይም መቀጠል አለመቀጠል ይወስናል። ይህ ውሳኔ የተወሰደው በችግሩ ተፅዕኖ እና በጨዋታው ፍትሃዊነት ላይ የተመሰረተ ነው። ዳኛው የመጨረሻው ውሳኔ ሰጭ ነው።",
+  "description7": "ተጫዋቾች በተወሰነ ጊዜ ከተገለጸው የጨዋታ ሰዓት በላይ ከ5 ደቂቃ የሚበልጥ ጥገኝነት ካላቸው፣ ከውድድሩ ይሰረዛሉ። በጨዋታው መጀመሪያ ላይ መገኘት እና ዝግጁ መሆን አለባቸው። ይህ ደንብ የውድድሩን የጊዜ አሰራር ለመጠበቅ እና ለሁሉም ተሳታፊዎች ፍትሃዊነት ለማረጋገጥ የተዘጋጀ ነው።",
+  "description8": "የፍትሃዊ ጨዋታ መንፈስ በዚህ ውድድር መሃል ላይ ይገኛል። ተጫዋቾች በንጽህና፣ በተጫዋቾች ማክበር እና የጨዋታውን እሴቶች በማክበር እንዲወዳደሩ ይበረታታሉ። አሸናፊ መሆን ብቻ አይደለም፤ ጨዋታውን በትክክል መጫወት ነው።",
+  "importantNotesTitle": "አስፈላጊ ማስታወሻዎች",
+  "importantNotes": "እነዚህን ደንቦች መጣስ ቅጣት፣ ማሰቀር ወይም ከውድድሩ ማስወገድ ያስከትላል። የውድድሩ አዘጋጆች በማንኛውም ክርክር ወይም የደንቦች ትርጉም ላይ የመጨረሻ ውሳኔ ለመስጠት መብት ይጠብቃሉ።",
+  "closingMessage": "ለሁሉም ተሳታፊዎች መልካም ዕድል እንመኛለን እና ውድድሩን እንዲደሰቱ ተስፋ እናደርጋለን። ይህን የማይረሳ እና አስደሳች ዝግጅት ለሁሉም እናድርገው!",
+  "backToHome": "ወደ መነሻ ተመለስ"
+}
+  }

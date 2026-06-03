@@ -1,0 +1,8 @@
+# Allow all search engines to crawl public pages
+User-agent: *
+Disallow: /admin/
+Disallow: /player/dashboard
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.playzon.org.et/sitemap.xml

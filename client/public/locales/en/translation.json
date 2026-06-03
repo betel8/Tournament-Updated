@@ -1,0 +1,209 @@
+{
+  "hero": {
+    "title": "FC26 Tournament",
+    "subtitle": "Battle for glory at Playzon Game Zone, Addis Ababa",
+    "register": "Register Now",
+    "login": "Login",
+    "freeRegistration": "Free registration",
+    "fee": "Only 20 ETB if you lose"
+  },
+  "finalCTA": {
+    "title": "Ready to Play?",
+    "subtitle": "Limited slots available",
+    "button": "Claim Your Spot"
+  },
+  "features": {
+    "title": "Tournament Highlights",
+    "ps5": {
+      "title": "PS5 Gaming",
+      "text": "Compete on PlayStation 5"
+    },
+    "prizes": {
+      "title": "Win Prizes",
+      "text": "Cash & gaming gear"
+    },
+    "location": {
+      "title": "Playzon Game Zone",
+      "text": "Addis Ababa"
+    },
+    "schedule": {
+      "title": "March 15-30",
+      "text": "Daily matches"
+    }
+  },
+  "eventDetails": {
+    "title": "Event Details",
+    "date": "March 15-30, 2025",
+    "time": "4PM - 10PM daily",
+    "venue": "Playzon Game Zone",
+    "location": "Saris, Addis Ababa",
+    "imageAlt": "Gaming venue"
+  },
+  "registration": {
+    "title": "Player Registration",
+    "stepLabel": "Step {{step}}",
+    
+    "step1": {
+      "firstNameLabel": "First Name",
+      "firstNamePlaceholder": "Enter your first name",
+      "lastNameLabel": "Last Name",
+      "lastNamePlaceholder": "Enter your last name",
+      "profilePhotoAlt": "Profile preview"
+    },
+    
+    "step2": {
+      "phoneNumberLabel": "Phone Number",
+      "phoneNumberPlaceholder": "+251912345678",
+      "phoneNumberFormat": "Format: +2517XXXXXXXX or +2519XXXXXXXX",
+      "ageLabel": "Age",
+      "agePlaceholder": "Enter your age"
+    },
+    
+    "step3": {
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "••••••••",
+      "passwordRequirements": "Must be at least 8 characters with uppercase, lowercase, and a number",
+      "confirmPasswordLabel": "Confirm Password"
+    },
+    
+    "errors": {
+      "profilePhotoRequired": "Profile photo is required",
+      "fileTooLarge": "File must be less than 20MB",
+      "invalidFileType": "Only JPEG/PNG images allowed",
+      "firstNameRequired": "First name is required",
+      "firstNameMinLength": "Must be at least 2 characters",
+      "firstNameMaxLength": "Cannot exceed 50 characters",
+      "lastNameRequired": "Last name is required",
+      "lastNameMinLength": "Must be at least 2 characters",
+      "lastNameMaxLength": "Cannot exceed 50 characters",
+      "phoneNumberRequired": "Phone number is required",
+      "phoneNumberInvalid": "Invalid Ethiopian number format",
+      "phoneNumberExists": "This phone number is already registered",
+      "phoneNumberCheckFailed": "Error checking phone number",
+      "ageMin": "Must be at least 13 years old",
+      "ageMax": "Maximum age is 100",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Must be at least 8 characters",
+      "passwordMaxLength": "Cannot exceed 50 characters",
+      "passwordLowercase": "Requires lowercase letter",
+      "passwordUppercase": "Requires uppercase letter",
+      "passwordNumber": "Requires number",
+      "confirmPasswordRequired": "Please confirm your password",
+      "passwordsDontMatch": "Passwords do not match",
+      "registrationFailed": "Registration failed. Please try again.",
+      "ageRequired": "Age is required",
+      "ageInteger": "Age must be a whole number"
+    },
+    
+    "messages": {
+      "registrationSuccess": "Registration successful! Redirecting...",
+      "processing": "Processing..."
+    },
+    
+    "buttons": {
+      "back": "Back",
+      "nextStep": "Next Step",
+      "completeRegistration": "Complete Registration"
+    }
+  },
+   "navbar": {
+      "tournament": "Tournament",
+      "dashboard": "Dashboard",
+      "rules": "Rules",
+      "matches": "Matches",
+      "login": "Login",
+      "register": "Register",
+      "logout": "Logout",
+      "language": "Language"
+    },
+    "login": {
+    "title": "Sign in to your account",
+    "subtitle": "Enter your credentials to continue",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "+251 9XX XXX XXX",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "errors": {
+      "invalidCredentials": "Invalid phone number or password",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Please enter a valid Ethiopian phone number",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 8 characters",
+      "loginFailed": "Login failed. Please check your credentials",
+      "networkError": "Network error. Please try again"
+    }
+    },
+    "changePassword": {
+      "title": "Change Password",
+      "subtitle": "Secure your account with a new password",
+      "currentPassword": "Current Password",
+      "currentPasswordPlaceholder": "Enter your current password",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "Enter your new password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm your new password",
+      "submit": "Change Password",
+      "success": "Password changed successfully!",
+      "error": "Failed to change password. Please try again.",
+      "passwordRequirements": {
+      "length": "At least 8 characters",
+      "number": "Contains a number",
+      "uppercase": "Contains uppercase letter",
+      "special": "Contains special character"
+    }
+    },
+    "playerDashboard": {
+      "tabs": {
+        "profile": "Profile",
+        "security": "Security",
+        "stats": "Stats",
+        "activity": "Activity"
+      }
+    },
+    "adminDashboard": {
+    "tabs": {
+      "players": "Players",
+      "tournamentPlayers": "Tournament Players",
+      "matches": "Matches",
+      "leagues": "Leagues",
+      "scheduling": "Scheduling",
+      "results": "Results",
+      "automation": "Automation",
+      "communications": "Communications"
+    }
+  },
+    "errors": {
+      "currentPasswordRequired": "Please input your current password!",
+      "passwordRequired": "Please input your new password!",
+      "confirmPasswordRequired": "Please confirm your new password!",
+      "passwordMinLength": "Password must be at least {min} characters!",
+      "passwordsDontMatch": "The two passwords do not match!"
+    },
+    "common": {
+      "processing": "Processing..."
+    },
+    "rules": {
+  "title": "Rules",
+  "introduction": "Welcome to the official rules of the tournament. Please ensure you read and understand these guidelines before participating. These rules are designed to ensure fair play, sportsmanship, and an enjoyable experience for everyone involved.",
+  "description1": "All matches will be played in accordance with the official FIFA rules. This ensures consistency and fairness across all games. Players are expected to familiarize themselves with these rules before the tournament begins.",
+  "description2": "Each match will consist of two halves, with each half lasting 4 minutes of real-world time. There will be a 1-minute halftime break between the two halves. This rule is in place to maintain the pace of the game and provide players with a short rest.",
+  "description3": "Players must respect the decisions of the referee at all times. Disputes or disagreements with the referee’s decisions will not be tolerated. Any form of dissent, including verbal or physical abuse, will result in immediate penalties.",
+  "description4": "All participants are expected to maintain a high standard of sportsmanship. Any form of misconduct, including but not limited to foul language, aggressive behavior, or unsportsmanlike conduct, will result in penalties or disqualification from the tournament.",
+  "description5": "If a match is tied at the end of the regular time, there will be no extra time. The match will proceed directly to a penalty shootout to determine the winner. Each team will take five penalties, and if the scores remain level, the shootout will continue in a sudden-death format until a winner is decided.",
+  "description6": "In the event of an in-game bug or glitch, the referee will decide whether the match needs to be rewound or continued. This decision will be based on the severity of the issue and its impact on the fairness of the game. The referee’s decision is final.",
+  "description7": "Players who arrive more than 5 minutes after the scheduled match time will be disqualified. It is mandatory for all players to be present and ready at the start of the match. This rule ensures the smooth running of the tournament and fairness for all participants.",
+  "description8": "The spirit of fair play is at the heart of this tournament. Players are encouraged to compete with integrity, respect their opponents, and uphold the values of the game. Remember, it’s not just about winning—it’s about playing the game the right way.",
+  "importantNotesTitle": "Important Notes",
+  "importantNotes": "Failure to adhere to these rules may result in penalties, suspensions, or disqualification. The tournament organizers reserve the right to make final decisions on any disputes or rule interpretations.",
+  "closingMessage": "We wish all participants the best of luck and hope you enjoy the tournament. Let’s make this a memorable and exciting event for everyone!",
+  "backToHome": "Back to Home"
+}
+  
+
+}
